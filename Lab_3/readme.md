@@ -10,3 +10,11 @@
 — розв'язки, визначені на
 ![eq](http://bit.ly/2CS9ZBR).
 
+#### 2.3
+Точки перегину інтегральних кривих
+
+![q](http://bit.ly/2CVeWtK)
+
+![w](http://bit.ly/2CWBF8s)
+
+![e](http://bit.ly/2CUjyjC)
