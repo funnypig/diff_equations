@@ -14,7 +14,9 @@ plt.tight_layout()
 
 plt.subplot(2,1,1)
 
-x, y = np.meshgrid(np.arange(-4,5),np.arange(-4,5))
+vg = np.vectorize(g)
+x = np.arange(-4,5)
+x, y = np.meshgrid(x, vg(0,x))
 
 plt.quiver(x, y)
 plt.title("Vector field")
