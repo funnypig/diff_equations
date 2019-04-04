@@ -26,7 +26,7 @@ plt.title("Vector field")
 # g(y0) = 0
 y0 = float(minimize(lambda y: abs(g(0, y)), 0).x)
 
-x = np.arange(-10, 10)
+x = np.linspace(-3, 3, 100)
 y = odeint(g, y0, x)
 
 plt.subplot(2,1,2)
@@ -34,4 +34,11 @@ plt.subplot(2,1,2)
 plt.plot(x, y)
 plt.title("Integral curve")
 
+legend = ['y0 = {}'.format(y0)]
+
+for y0 in [-4,-2,2,4]:
+    plt.plot(x, odeint(g, y0, x))
+    legend.append('y0 = {}'.format(y0))
+
+plt.legend(legend)
 plt.show()
