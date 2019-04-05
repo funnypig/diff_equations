@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551d5649-a152-4b29-947f-1d1a73abceab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task_3/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_3/solution_3_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/solutions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3/3_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/task_3/3_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_3/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_3/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +28,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task_3/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="257">
+              <caret line="66" column="100" selection-start-line="66" selection-start-column="100" selection-end-line="66" selection-end-column="100" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task_3/solution_3_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -50,6 +62,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/task_2/solution.py" />
+        <option value="$PROJECT_DIR$/task_3/solution_3_3.py" />
         <option value="$PROJECT_DIR$/task_3/solution.py" />
       </list>
     </option>
@@ -189,6 +202,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task_3/solution_3_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/task_2/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -198,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task_3/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="257">
+          <caret line="66" column="100" selection-start-line="66" selection-start-column="100" selection-end-line="66" selection-end-column="100" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
