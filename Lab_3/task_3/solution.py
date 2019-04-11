@@ -67,4 +67,4 @@ for x0 in x:
 plt.plot(_x, odeint(f, 1.6+np.sqrt(9-4*(x0-2))/2, _x), color = 'red', linewidth=0.8, label="solution y'=f(x,y)")
 
 plt.legend()
-plt.show()
+plt.show() 
